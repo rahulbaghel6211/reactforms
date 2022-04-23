@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "Name": "rahul",
+      "Age": "22",
+      "Gender": "male",
+      "Department": "Development",
+      "Role": "Engineer",
+      "Salry": "100000",
+      "Maritialstate": "single",
+      "id": 1
+    },
+    {
+      "Name": "ram",
+      "Age": "25",
+      "Gender": "male",
+      "Department": "Front-End",
+      "Role": "Engineer",
+      "Salry": "530000",
+      "Maritialstate": "single",
+      "Address": "jabalpur",
+      "id": 2
+    },
+    {
+      "Name": "Rahul Baghel",
+      "Age": "25",
+      "Gender": "male",
+      "Department": "Back-end",
+      "Role": "engineer",
+      "Salry": "110000",
+      "Maritialstate": "Madhya Pradesh",
+      "Address": "Chotha meel",
+      "id": 3
+    }
+  ]
+}
